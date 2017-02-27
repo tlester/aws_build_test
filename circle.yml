@@ -1,0 +1,4 @@
+machine:
+  dependencies:
+    pre:
+      - pip install -r requirements.txt
