@@ -1,4 +1,3 @@
-machine:
-  dependencies:
-    pre:
-      - pip install -r requirements.txt
+dependencies:
+  pre:
+    - pip install -r requirements.txt
